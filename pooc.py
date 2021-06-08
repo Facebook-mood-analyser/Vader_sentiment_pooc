@@ -59,6 +59,8 @@ for phrase in phrases:
     print("{:-<65} {}".format(phrase, str(score2)))
 
 
+    
+# ==================== Explication de l'analyse ======================================
 print(type(score)) # dictionnaire
 
 # neg négativité sur 1
